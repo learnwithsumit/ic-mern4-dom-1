@@ -54,6 +54,8 @@ console.log(header.innerText); // DOM TUTORIAL
 // chotoVaiElement.innerHTML = "<span>choto vhai</span>";
 // const container = document.querySelector(".todo-list");
 // container.append(chotoVaiElement);
-// append text accept kore, appendChild text accept kore na
-// append kisu return kore na, appendChild full element retrun kore
-// append e multiple element ba parameter accept kore, appendChild kore na
+
+
+/* append text accept kore, appendChild text accept kore na
+append kisu return kore na, appendChild full element retrun kore
+append e multiple element ba parameter accept kore, appendChild kore na */
